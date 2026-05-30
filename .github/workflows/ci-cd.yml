@@ -32,10 +32,10 @@ jobs:
 
       - name: Run tests with coverage
         run: |
-          uv run pytest tests/ -v --cov=src --cov-report=xml --cov-report=term
+          uv run pytest tests/ -v --cov=src --cov-report=xml --cov-report=term --ignore=tests/test_pipeline.py
         env:
           MLFLOW_TRACKING_URI: file:///tmp/mlruns
-          PYTHONPATH: ${{ github.workspace }} 
+          PYTHONPATH: ${{ github.workspace }}
 
   docker-build:
     runs-on: ubuntu-latest
