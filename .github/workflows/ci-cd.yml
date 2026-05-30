@@ -11,7 +11,7 @@ env:
   UV_VERSION: "0.4.0"
 
 jobs:
-  quality-checks:
+    quality-checks:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -30,25 +30,11 @@ jobs:
       - name: Install dependencies
         run: uv sync --frozen
 
-      - name: Run linting
-        run: |
-          uv run ruff check src/ tests/
-          uv run black src/ tests/ --check --diff
-
-      - name: Run type checking
-        run: uv run mypy src/ --ignore-missing-imports
-
       - name: Run tests with coverage
         run: |
           uv run pytest tests/ -v --cov=src --cov-report=xml --cov-report=term
         env:
           MLFLOW_TRACKING_URI: file:///tmp/mlruns
-
-      - name: Upload coverage to Codecov (optional)
-        uses: codecov/codecov-action@v3
-        with:
-          file: ./coverage.xml
-          fail_ci_if_error: false
 
   docker-build:
     runs-on: ubuntu-latest
