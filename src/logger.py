@@ -1,6 +1,5 @@
 import structlog
 import logging
-import sys
 
 def setup_logger(level: str = "INFO"):
     log_level = getattr(logging, level.upper(), logging.INFO)
@@ -10,7 +9,6 @@ def setup_logger(level: str = "INFO"):
             structlog.contextvars.merge_contextvars,
             structlog.processors.add_log_level,
             structlog.processors.TimeStamper(fmt="iso"),
-
             structlog.processors.JSONRenderer() 
         ],
         wrapper_class=structlog.make_filtering_bound_logger(log_level),

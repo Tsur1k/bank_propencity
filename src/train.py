@@ -21,7 +21,7 @@ def main():
 
     train_size = 1.0 - config.data.test_size
     
-    exp = setup(
+    setup(
         data=df,
         target="y",
         train_size=train_size,

@@ -1,7 +1,3 @@
-import pytest
-import pandas as pd
-from tests.conftest import minimal_df
-
 def test_leakage_control(minimal_df):
     df = minimal_df.copy()
     assert "duration" in df.columns

@@ -1,6 +1,5 @@
 import yaml
 from pydantic import BaseModel
-from typing import Optional
 
 class DataConfig(BaseModel):
     path: str
