@@ -19,4 +19,7 @@ dependencies = [
     "pytest-cov>=4.0,<6.0.0",
     "imbalanced-learn>=0.14.1",
     "pycaret>=3.3.2",
+    "ruff>=0.15.15",
+    "black>=26.5.1",
+    "mypy>=2.1.0",
 ]
