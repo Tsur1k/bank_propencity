@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/a922f002ee0947d4837c4c3987b08665/artifacts
+deleted_time: 1780127849344
+end_time: 1780127483183
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: a922f002ee0947d4837c4c3987b08665
+run_name: peaceful-hawk-532
+run_uuid: a922f002ee0947d4837c4c3987b08665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127483168
+status: 3
+tags: []
+user_id: mluser

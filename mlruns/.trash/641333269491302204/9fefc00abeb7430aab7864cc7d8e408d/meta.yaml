@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/9fefc00abeb7430aab7864cc7d8e408d/artifacts
+deleted_time: 1780126462575
+end_time: 1780126185675
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 9fefc00abeb7430aab7864cc7d8e408d
+run_name: angry-bass-679
+run_uuid: 9fefc00abeb7430aab7864cc7d8e408d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125845188
+status: 4
+tags: []
+user_id: mluser

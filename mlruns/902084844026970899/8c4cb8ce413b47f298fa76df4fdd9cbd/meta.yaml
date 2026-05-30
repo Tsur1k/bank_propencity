@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/902084844026970899/8c4cb8ce413b47f298fa76df4fdd9cbd/artifacts
+deleted_time: 1780133980933
+end_time: 1780132844920
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: deleted
+run_id: 8c4cb8ce413b47f298fa76df4fdd9cbd
+run_name: Logistic Regression
+run_uuid: 8c4cb8ce413b47f298fa76df4fdd9cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132844877
+status: 3
+tags: []
+user_id: mluser

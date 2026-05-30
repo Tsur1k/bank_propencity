@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/19d55416e5e54b7d9afab2117665c0a5/artifacts
+deleted_time: 1780128010824
+end_time: 1780127371711
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 19d55416e5e54b7d9afab2117665c0a5
+run_name: kindly-skink-298
+run_uuid: 19d55416e5e54b7d9afab2117665c0a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127371696
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/42ae00c3aa674bb1b372b2c9649b53f1/artifacts
+deleted_time: 1780127849289
+end_time: 1780126181980
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 42ae00c3aa674bb1b372b2c9649b53f1
+run_name: incongruous-moth-997
+run_uuid: 42ae00c3aa674bb1b372b2c9649b53f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126181972
+status: 3
+tags: []
+user_id: mluser

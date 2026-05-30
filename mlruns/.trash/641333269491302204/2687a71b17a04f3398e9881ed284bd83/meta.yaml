@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/2687a71b17a04f3398e9881ed284bd83/artifacts
+deleted_time: 1780127849357
+end_time: 1780126478750
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 2687a71b17a04f3398e9881ed284bd83
+run_name: industrious-dove-923
+run_uuid: 2687a71b17a04f3398e9881ed284bd83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126478741
+status: 3
+tags: []
+user_id: mluser

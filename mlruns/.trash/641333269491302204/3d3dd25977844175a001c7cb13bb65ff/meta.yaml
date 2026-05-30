@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/3d3dd25977844175a001c7cb13bb65ff/artifacts
+deleted_time: 1780127849328
+end_time: 1780125852860
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 3d3dd25977844175a001c7cb13bb65ff
+run_name: bustling-moth-174
+run_uuid: 3d3dd25977844175a001c7cb13bb65ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125852852
+status: 3
+tags: []
+user_id: mluser

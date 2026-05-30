@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/72b49cdc25e947e48e4686b3d37f9712/artifacts
+deleted_time: 1780127849245
+end_time: 1780126160134
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 72b49cdc25e947e48e4686b3d37f9712
+run_name: burly-fowl-45
+run_uuid: 72b49cdc25e947e48e4686b3d37f9712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126160126
+status: 3
+tags: []
+user_id: mluser

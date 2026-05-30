@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/b2e574a785fd4ceaa73b9911b199683a/artifacts
+deleted_time: 1780128010855
+end_time: 1780126612357
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: b2e574a785fd4ceaa73b9911b199683a
+run_name: enthused-deer-401
+run_uuid: b2e574a785fd4ceaa73b9911b199683a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126370521
+status: 4
+tags: []
+user_id: mluser

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/902084844026970899/7f3802bd59b34b33b13d763c5bafc561/artifacts
+end_time: 1780134133056
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: active
+run_id: 7f3802bd59b34b33b13d763c5bafc561
+run_name: K Neighbors Classifier
+run_uuid: 7f3802bd59b34b33b13d763c5bafc561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134133007
+status: 3
+tags: []
+user_id: mluser

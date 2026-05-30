@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/9e31364fd97141f9b89010c6a54fbd50/artifacts
+deleted_time: 1780127849212
+end_time: 1780125917887
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 9e31364fd97141f9b89010c6a54fbd50
+run_name: serious-carp-11
+run_uuid: 9e31364fd97141f9b89010c6a54fbd50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125917879
+status: 3
+tags: []
+user_id: mluser

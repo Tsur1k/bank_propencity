@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/7f06680ce3304368aa4906ccda1c06b4/artifacts
+deleted_time: 1780127849245
+end_time: 1780126461637
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 7f06680ce3304368aa4906ccda1c06b4
+run_name: trusting-asp-163
+run_uuid: 7f06680ce3304368aa4906ccda1c06b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126461627
+status: 3
+tags: []
+user_id: mluser

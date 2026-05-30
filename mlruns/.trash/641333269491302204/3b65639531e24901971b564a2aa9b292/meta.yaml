@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/3b65639531e24901971b564a2aa9b292/artifacts
+deleted_time: 1780128010831
+end_time: 1780125887947
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 3b65639531e24901971b564a2aa9b292
+run_name: nimble-mouse-922
+run_uuid: 3b65639531e24901971b564a2aa9b292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125887940
+status: 3
+tags: []
+user_id: mluser

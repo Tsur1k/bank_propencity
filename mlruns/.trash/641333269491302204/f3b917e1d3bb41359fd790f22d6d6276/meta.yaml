@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/f3b917e1d3bb41359fd790f22d6d6276/artifacts
+deleted_time: 1780127849293
+end_time: 1780126546889
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: f3b917e1d3bb41359fd790f22d6d6276
+run_name: upbeat-steed-895
+run_uuid: f3b917e1d3bb41359fd790f22d6d6276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126546879
+status: 3
+tags: []
+user_id: mluser

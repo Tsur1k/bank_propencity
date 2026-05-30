@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/69fe790f14d4417b82db1df51c50cdaa/artifacts
+deleted_time: 1780127849361
+end_time: 1780126130626
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 69fe790f14d4417b82db1df51c50cdaa
+run_name: auspicious-moose-592
+run_uuid: 69fe790f14d4417b82db1df51c50cdaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126130617
+status: 3
+tags: []
+user_id: mluser

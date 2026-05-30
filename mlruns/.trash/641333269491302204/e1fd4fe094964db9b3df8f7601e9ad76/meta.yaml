@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/e1fd4fe094964db9b3df8f7601e9ad76/artifacts
+deleted_time: 1780128010840
+end_time: 1780126418027
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: e1fd4fe094964db9b3df8f7601e9ad76
+run_name: rumbling-sloth-494
+run_uuid: e1fd4fe094964db9b3df8f7601e9ad76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126418018
+status: 3
+tags: []
+user_id: mluser

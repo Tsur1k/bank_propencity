@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/878d7f0e8c5d44d6bbddbd9b6c8605e1/artifacts
+deleted_time: 1780127849276
+end_time: 1780126000701
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 878d7f0e8c5d44d6bbddbd9b6c8605e1
+run_name: angry-croc-350
+run_uuid: 878d7f0e8c5d44d6bbddbd9b6c8605e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126000694
+status: 3
+tags: []
+user_id: mluser

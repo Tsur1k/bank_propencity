@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/d92d35b0ff12426c9ba0d981939e9246/artifacts
+deleted_time: 1780128010834
+end_time: 1780126590471
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: d92d35b0ff12426c9ba0d981939e9246
+run_name: silent-moose-922
+run_uuid: d92d35b0ff12426c9ba0d981939e9246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126590462
+status: 3
+tags: []
+user_id: mluser

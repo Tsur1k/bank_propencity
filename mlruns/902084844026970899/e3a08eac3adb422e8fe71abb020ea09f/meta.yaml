@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/902084844026970899/e3a08eac3adb422e8fe71abb020ea09f/artifacts
+end_time: 1780134132066
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: active
+run_id: e3a08eac3adb422e8fe71abb020ea09f
+run_name: Ridge Classifier
+run_uuid: e3a08eac3adb422e8fe71abb020ea09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134132015
+status: 3
+tags: []
+user_id: mluser

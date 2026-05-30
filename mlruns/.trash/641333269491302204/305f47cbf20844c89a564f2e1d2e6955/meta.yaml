@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/305f47cbf20844c89a564f2e1d2e6955/artifacts
+deleted_time: 1780128010808
+end_time: 1780127394689
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 305f47cbf20844c89a564f2e1d2e6955
+run_name: thundering-bee-585
+run_uuid: 305f47cbf20844c89a564f2e1d2e6955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127394678
+status: 3
+tags: []
+user_id: mluser

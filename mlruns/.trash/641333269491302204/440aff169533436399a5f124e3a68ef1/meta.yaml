@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/440aff169533436399a5f124e3a68ef1/artifacts
+deleted_time: 1780127849233
+end_time: 1780126556067
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 440aff169533436399a5f124e3a68ef1
+run_name: mysterious-robin-786
+run_uuid: 440aff169533436399a5f124e3a68ef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126556057
+status: 3
+tags: []
+user_id: mluser

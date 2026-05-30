@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/e35a88fc098947e7a1f462c4b45533b8/artifacts
+deleted_time: 1780127849335
+end_time: 1780127500414
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: e35a88fc098947e7a1f462c4b45533b8
+run_name: persistent-lynx-315
+run_uuid: e35a88fc098947e7a1f462c4b45533b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127500405
+status: 3
+tags: []
+user_id: mluser

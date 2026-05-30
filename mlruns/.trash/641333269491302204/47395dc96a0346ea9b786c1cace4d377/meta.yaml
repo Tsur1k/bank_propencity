@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/47395dc96a0346ea9b786c1cace4d377/artifacts
+deleted_time: 1780127849262
+end_time: 1780125956847
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 47395dc96a0346ea9b786c1cace4d377
+run_name: likeable-snake-123
+run_uuid: 47395dc96a0346ea9b786c1cace4d377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125956839
+status: 3
+tags: []
+user_id: mluser

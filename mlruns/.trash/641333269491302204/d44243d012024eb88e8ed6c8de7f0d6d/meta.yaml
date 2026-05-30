@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/d44243d012024eb88e8ed6c8de7f0d6d/artifacts
+deleted_time: 1780128010851
+end_time: 1780125909043
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: d44243d012024eb88e8ed6c8de7f0d6d
+run_name: invincible-hog-432
+run_uuid: d44243d012024eb88e8ed6c8de7f0d6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125909035
+status: 3
+tags: []
+user_id: mluser

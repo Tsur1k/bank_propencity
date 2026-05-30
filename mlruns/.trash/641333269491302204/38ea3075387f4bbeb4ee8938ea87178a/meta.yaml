@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/38ea3075387f4bbeb4ee8938ea87178a/artifacts
+deleted_time: 1780127849303
+end_time: 1780126099487
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 38ea3075387f4bbeb4ee8938ea87178a
+run_name: lyrical-skink-306
+run_uuid: 38ea3075387f4bbeb4ee8938ea87178a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126099469
+status: 3
+tags: []
+user_id: mluser

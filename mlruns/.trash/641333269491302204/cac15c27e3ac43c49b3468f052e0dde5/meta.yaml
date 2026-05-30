@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/cac15c27e3ac43c49b3468f052e0dde5/artifacts
+deleted_time: 1780127849278
+end_time: 1780126174682
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: cac15c27e3ac43c49b3468f052e0dde5
+run_name: upbeat-lamb-968
+run_uuid: cac15c27e3ac43c49b3468f052e0dde5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126174674
+status: 3
+tags: []
+user_id: mluser

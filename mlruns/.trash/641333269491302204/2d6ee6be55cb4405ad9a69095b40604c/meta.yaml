@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/2d6ee6be55cb4405ad9a69095b40604c/artifacts
+deleted_time: 1780127849356
+end_time: 1780125988621
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 2d6ee6be55cb4405ad9a69095b40604c
+run_name: luminous-bird-419
+run_uuid: 2d6ee6be55cb4405ad9a69095b40604c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125988612
+status: 3
+tags: []
+user_id: mluser

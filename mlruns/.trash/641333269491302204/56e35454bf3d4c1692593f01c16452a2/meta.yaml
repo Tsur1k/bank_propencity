@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/56e35454bf3d4c1692593f01c16452a2/artifacts
+deleted_time: 1780127849324
+end_time: 1780125910301
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 56e35454bf3d4c1692593f01c16452a2
+run_name: selective-hare-328
+run_uuid: 56e35454bf3d4c1692593f01c16452a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125910293
+status: 3
+tags: []
+user_id: mluser

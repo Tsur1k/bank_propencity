@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/ab11a49285b34cbfb9bd753dceaf84c2/artifacts
+deleted_time: 1780127849210
+end_time: 1780126489455
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: ab11a49285b34cbfb9bd753dceaf84c2
+run_name: hilarious-zebra-429
+run_uuid: ab11a49285b34cbfb9bd753dceaf84c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126489446
+status: 3
+tags: []
+user_id: mluser

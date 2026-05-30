@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/b3af99266a8e456c8f480c3691266495/artifacts
+deleted_time: 1780127849266
+end_time: 1780126610781
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: b3af99266a8e456c8f480c3691266495
+run_name: rebellious-fowl-754
+run_uuid: b3af99266a8e456c8f480c3691266495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126610737
+status: 3
+tags: []
+user_id: mluser

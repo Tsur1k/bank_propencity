@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/9f03c3744f5d4947a20e8e9f566cdb82/artifacts
+deleted_time: 1780127849348
+end_time: 1780127532565
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 9f03c3744f5d4947a20e8e9f566cdb82
+run_name: clean-vole-361
+run_uuid: 9f03c3744f5d4947a20e8e9f566cdb82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127532555
+status: 3
+tags: []
+user_id: mluser

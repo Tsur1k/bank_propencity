@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/ed7d0e0bd7ba4439bb7c6f5395ba52b0/artifacts
+deleted_time: 1780128010831
+end_time: 1780126445910
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: ed7d0e0bd7ba4439bb7c6f5395ba52b0
+run_name: melodic-bug-558
+run_uuid: ed7d0e0bd7ba4439bb7c6f5395ba52b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126445894
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/96df07d9459046d5b4313a51344da0d0/artifacts
+deleted_time: 1780127849230
+end_time: 1780126600995
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 96df07d9459046d5b4313a51344da0d0
+run_name: thoughtful-shad-218
+run_uuid: 96df07d9459046d5b4313a51344da0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126600985
+status: 3
+tags: []
+user_id: mluser

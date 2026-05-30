@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/4508b44d3b034bb294f668d7afc6f84d/artifacts
+deleted_time: 1780127849312
+end_time: 1780126409656
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 4508b44d3b034bb294f668d7afc6f84d
+run_name: bright-ray-314
+run_uuid: 4508b44d3b034bb294f668d7afc6f84d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126409647
+status: 3
+tags: []
+user_id: mluser

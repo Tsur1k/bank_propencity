@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/d06d94679e6f445c94b9ab79c07406b3/artifacts
+deleted_time: 1780127849335
+end_time: 1780127780445
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: d06d94679e6f445c94b9ab79c07406b3
+run_name: peaceful-pug-161
+run_uuid: d06d94679e6f445c94b9ab79c07406b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127780426
+status: 3
+tags: []
+user_id: mluser

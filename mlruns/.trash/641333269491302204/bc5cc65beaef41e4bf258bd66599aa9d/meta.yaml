@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/bc5cc65beaef41e4bf258bd66599aa9d/artifacts
+deleted_time: 1780128010827
+end_time: 1780126435935
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: bc5cc65beaef41e4bf258bd66599aa9d
+run_name: sincere-auk-962
+run_uuid: bc5cc65beaef41e4bf258bd66599aa9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126435926
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/0ac0631e8b8249fd96d5b1f4a86679fa/artifacts
+deleted_time: 1780127849231
+end_time: 1780126134248
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 0ac0631e8b8249fd96d5b1f4a86679fa
+run_name: abundant-fly-983
+run_uuid: 0ac0631e8b8249fd96d5b1f4a86679fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126134240
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/fdbe8cc508cb45f7b6f83b6f409df5ee/artifacts
+deleted_time: 1780127849340
+end_time: 1780127751477
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: fdbe8cc508cb45f7b6f83b6f409df5ee
+run_name: treasured-calf-656
+run_uuid: fdbe8cc508cb45f7b6f83b6f409df5ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127751428
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/fac44a146990427c91a4544cc923ff3b/artifacts
+deleted_time: 1780128010855
+end_time: 1780126853953
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: fac44a146990427c91a4544cc923ff3b
+run_name: whimsical-snipe-451
+run_uuid: fac44a146990427c91a4544cc923ff3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126853910
+status: 4
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/a3b90d57518647de8c1d8cf80800c48f/artifacts
+deleted_time: 1780128010844
+end_time: 1780127323519
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: a3b90d57518647de8c1d8cf80800c48f
+run_name: clean-fish-419
+run_uuid: a3b90d57518647de8c1d8cf80800c48f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127323509
+status: 3
+tags: []
+user_id: mluser

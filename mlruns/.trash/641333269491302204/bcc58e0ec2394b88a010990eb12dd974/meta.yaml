@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/bcc58e0ec2394b88a010990eb12dd974/artifacts
+deleted_time: 1780127849242
+end_time: 1780126515092
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: bcc58e0ec2394b88a010990eb12dd974
+run_name: fearless-gull-872
+run_uuid: bcc58e0ec2394b88a010990eb12dd974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126515082
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/0a7243799a02480090e519d48dad1b0d/artifacts
+deleted_time: 1780128010843
+end_time: 1780125876967
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 0a7243799a02480090e519d48dad1b0d
+run_name: adorable-fly-549
+run_uuid: 0a7243799a02480090e519d48dad1b0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125876959
+status: 3
+tags: []
+user_id: mluser

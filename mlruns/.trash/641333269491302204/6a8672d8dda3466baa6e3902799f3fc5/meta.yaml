@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/6a8672d8dda3466baa6e3902799f3fc5/artifacts
+deleted_time: 1780127849349
+end_time: 1780125873073
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 6a8672d8dda3466baa6e3902799f3fc5
+run_name: powerful-stag-211
+run_uuid: 6a8672d8dda3466baa6e3902799f3fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125873065
+status: 3
+tags: []
+user_id: mluser

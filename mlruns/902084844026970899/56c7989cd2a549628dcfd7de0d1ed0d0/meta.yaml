@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/902084844026970899/56c7989cd2a549628dcfd7de0d1ed0d0/artifacts
+deleted_time: 1780133980935
+end_time: 1780132844772
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: deleted
+run_id: 56c7989cd2a549628dcfd7de0d1ed0d0
+run_name: Linear Discriminant Analysis
+run_uuid: 56c7989cd2a549628dcfd7de0d1ed0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132844729
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/127958808bb1493386370880f35470ba/artifacts
+deleted_time: 1780127849333
+end_time: 1780126009277
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 127958808bb1493386370880f35470ba
+run_name: incongruous-bird-403
+run_uuid: 127958808bb1493386370880f35470ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126009268
+status: 3
+tags: []
+user_id: mluser

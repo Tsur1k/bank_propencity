@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/72763c485b954520b8b73817a99b0aae/artifacts
+deleted_time: 1780127849286
+end_time: 1780126480405
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 72763c485b954520b8b73817a99b0aae
+run_name: dapper-mink-518
+run_uuid: 72763c485b954520b8b73817a99b0aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126480396
+status: 3
+tags: []
+user_id: mluser

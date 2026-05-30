@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/902084844026970899/36c93f8094ab4c308ddbd4439735ee00/artifacts
+end_time: 1780134593601
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: active
+run_id: 36c93f8094ab4c308ddbd4439735ee00
+run_name: Session Initialized 017e
+run_uuid: 36c93f8094ab4c308ddbd4439735ee00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133997809
+status: 3
+tags: []
+user_id: mluser

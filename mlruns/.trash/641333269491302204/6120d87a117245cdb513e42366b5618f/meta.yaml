@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/6120d87a117245cdb513e42366b5618f/artifacts
+deleted_time: 1780128010852
+end_time: 1780127155295
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 6120d87a117245cdb513e42366b5618f
+run_name: clumsy-shrew-691
+run_uuid: 6120d87a117245cdb513e42366b5618f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127154823
+status: 4
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/068e751016864fde95ccc9f144412fd4/artifacts
+deleted_time: 1780127849359
+end_time: 1780127410776
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 068e751016864fde95ccc9f144412fd4
+run_name: big-wren-367
+run_uuid: 068e751016864fde95ccc9f144412fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127410761
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/12c8cc02f22342c2a6b233df165601a5/artifacts
+deleted_time: 1780127849189
+end_time: 1780126112118
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 12c8cc02f22342c2a6b233df165601a5
+run_name: bedecked-mouse-803
+run_uuid: 12c8cc02f22342c2a6b233df165601a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126112108
+status: 3
+tags: []
+user_id: mluser

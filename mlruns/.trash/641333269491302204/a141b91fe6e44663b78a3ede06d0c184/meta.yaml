@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/a141b91fe6e44663b78a3ede06d0c184/artifacts
+deleted_time: 1780128010837
+end_time: 1780125893566
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: a141b91fe6e44663b78a3ede06d0c184
+run_name: victorious-jay-171
+run_uuid: a141b91fe6e44663b78a3ede06d0c184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125893558
+status: 3
+tags: []
+user_id: mluser

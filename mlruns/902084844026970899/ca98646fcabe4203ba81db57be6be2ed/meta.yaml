@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/902084844026970899/ca98646fcabe4203ba81db57be6be2ed/artifacts
+deleted_time: 1780133980950
+end_time: 1780132844482
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: deleted
+run_id: ca98646fcabe4203ba81db57be6be2ed
+run_name: Ada Boost Classifier
+run_uuid: ca98646fcabe4203ba81db57be6be2ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132844441
+status: 3
+tags: []
+user_id: mluser

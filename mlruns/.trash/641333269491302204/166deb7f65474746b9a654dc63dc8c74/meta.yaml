@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/166deb7f65474746b9a654dc63dc8c74/artifacts
+deleted_time: 1780127849253
+end_time: 1780126467628
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 166deb7f65474746b9a654dc63dc8c74
+run_name: industrious-wolf-736
+run_uuid: 166deb7f65474746b9a654dc63dc8c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126467614
+status: 3
+tags: []
+user_id: mluser

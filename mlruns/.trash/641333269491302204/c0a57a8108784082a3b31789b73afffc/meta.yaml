@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/c0a57a8108784082a3b31789b73afffc/artifacts
+deleted_time: 1780127849203
+end_time: 1780126152814
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: c0a57a8108784082a3b31789b73afffc
+run_name: painted-cow-422
+run_uuid: c0a57a8108784082a3b31789b73afffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126152807
+status: 3
+tags: []
+user_id: mluser

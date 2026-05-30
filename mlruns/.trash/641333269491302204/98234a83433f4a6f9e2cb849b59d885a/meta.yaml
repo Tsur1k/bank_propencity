@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/98234a83433f4a6f9e2cb849b59d885a/artifacts
+deleted_time: 1780128010822
+end_time: 1780126398820
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 98234a83433f4a6f9e2cb849b59d885a
+run_name: gentle-gull-421
+run_uuid: 98234a83433f4a6f9e2cb849b59d885a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126398812
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/aa6163c77177409f9722a605d6c13ae4/artifacts
+deleted_time: 1780127849289
+end_time: 1780125943301
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: aa6163c77177409f9722a605d6c13ae4
+run_name: luxuriant-lynx-245
+run_uuid: aa6163c77177409f9722a605d6c13ae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125943293
+status: 3
+tags: []
+user_id: mluser

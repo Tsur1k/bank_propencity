@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/506265d00a2644ca857bd06501e0ee16/artifacts
+deleted_time: 1780128010813
+end_time: 1780127389060
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 506265d00a2644ca857bd06501e0ee16
+run_name: sedate-perch-300
+run_uuid: 506265d00a2644ca857bd06501e0ee16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127389050
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/f1f8906a60d94eb7a4bac1cd894cba9e/artifacts
+deleted_time: 1780127849230
+end_time: 1780126524783
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: f1f8906a60d94eb7a4bac1cd894cba9e
+run_name: capricious-mole-583
+run_uuid: f1f8906a60d94eb7a4bac1cd894cba9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126524773
+status: 3
+tags: []
+user_id: mluser

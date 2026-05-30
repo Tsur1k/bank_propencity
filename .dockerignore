@@ -1,0 +1,21 @@
+# Исключаем виртуальные окружения
+.venv/
+venv/
+
+# Исключаем временные файлы и кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.git/
+.github/
+
+# Исключаем локальные данные и артефакты MLflow
+data/
+mlruns/
+models/
+*.csv
+*.pkl
+
+# Логи
+logs/

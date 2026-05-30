@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/bfe6c6d7b60f4ac6a9979ed316463ecd/artifacts
+deleted_time: 1780127849219
+end_time: 1780126185625
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: bfe6c6d7b60f4ac6a9979ed316463ecd
+run_name: omniscient-gnat-68
+run_uuid: bfe6c6d7b60f4ac6a9979ed316463ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126185617
+status: 3
+tags: []
+user_id: mluser

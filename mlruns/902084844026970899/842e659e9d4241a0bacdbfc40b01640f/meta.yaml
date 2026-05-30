@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/902084844026970899/842e659e9d4241a0bacdbfc40b01640f/artifacts
+deleted_time: 1780133980945
+end_time: 1780132844182
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: deleted
+run_id: 842e659e9d4241a0bacdbfc40b01640f
+run_name: Light Gradient Boosting Machine
+run_uuid: 842e659e9d4241a0bacdbfc40b01640f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132843819
+status: 3
+tags: []
+user_id: mluser

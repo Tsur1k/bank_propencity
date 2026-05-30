@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/4ad9371c586a4344a993ef21b6e253b4/artifacts
+deleted_time: 1780127849290
+end_time: 1780126474101
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 4ad9371c586a4344a993ef21b6e253b4
+run_name: bemused-bug-601
+run_uuid: 4ad9371c586a4344a993ef21b6e253b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126474091
+status: 3
+tags: []
+user_id: mluser

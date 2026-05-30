@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/902084844026970899/288bed7f103c4ca383515413afe66fec/artifacts
+deleted_time: 1780133980947
+end_time: 1780132846048
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: deleted
+run_id: 288bed7f103c4ca383515413afe66fec
+run_name: Dummy Classifier
+run_uuid: 288bed7f103c4ca383515413afe66fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132846001
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/e358cd0b74434961b142580f20cfaf1d/artifacts
+deleted_time: 1780128010817
+end_time: 1780127276194
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: e358cd0b74434961b142580f20cfaf1d
+run_name: handsome-flea-96
+run_uuid: e358cd0b74434961b142580f20cfaf1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127276185
+status: 3
+tags: []
+user_id: mluser

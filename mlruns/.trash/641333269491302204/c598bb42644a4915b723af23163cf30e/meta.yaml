@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/c598bb42644a4915b723af23163cf30e/artifacts
+deleted_time: 1780128010818
+end_time: 1780125952658
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: c598bb42644a4915b723af23163cf30e
+run_name: burly-dove-542
+run_uuid: c598bb42644a4915b723af23163cf30e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125952651
+status: 3
+tags: []
+user_id: mluser

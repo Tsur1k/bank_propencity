@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/902084844026970899/45cc493383b74c028c4743bd5e3da331/artifacts
+deleted_time: 1780133980946
+end_time: 1780132845774
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: deleted
+run_id: 45cc493383b74c028c4743bd5e3da331
+run_name: Extra Trees Classifier
+run_uuid: 45cc493383b74c028c4743bd5e3da331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132845725
+status: 3
+tags: []
+user_id: mluser

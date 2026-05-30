@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/33077b0e479b4de5919cc9631913ed67/artifacts
+deleted_time: 1780127849293
+end_time: 1780125854028
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 33077b0e479b4de5919cc9631913ed67
+run_name: intelligent-mink-928
+run_uuid: 33077b0e479b4de5919cc9631913ed67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125854021
+status: 3
+tags: []
+user_id: mluser

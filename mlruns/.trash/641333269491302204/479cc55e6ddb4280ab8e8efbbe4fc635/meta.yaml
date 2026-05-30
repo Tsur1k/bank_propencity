@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/479cc55e6ddb4280ab8e8efbbe4fc635/artifacts
+deleted_time: 1780128010810
+end_time: 1780127290305
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 479cc55e6ddb4280ab8e8efbbe4fc635
+run_name: popular-mule-17
+run_uuid: 479cc55e6ddb4280ab8e8efbbe4fc635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127290295
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/20af7445741840ff84070a6f5825d767/artifacts
+deleted_time: 1780127849314
+end_time: 1780125934578
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 20af7445741840ff84070a6f5825d767
+run_name: puzzled-steed-891
+run_uuid: 20af7445741840ff84070a6f5825d767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125934571
+status: 3
+tags: []
+user_id: mluser

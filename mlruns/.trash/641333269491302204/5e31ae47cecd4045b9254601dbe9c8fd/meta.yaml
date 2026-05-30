@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/5e31ae47cecd4045b9254601dbe9c8fd/artifacts
+deleted_time: 1780127849341
+end_time: 1780126424503
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 5e31ae47cecd4045b9254601dbe9c8fd
+run_name: flawless-pig-644
+run_uuid: 5e31ae47cecd4045b9254601dbe9c8fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126424495
+status: 3
+tags: []
+user_id: mluser

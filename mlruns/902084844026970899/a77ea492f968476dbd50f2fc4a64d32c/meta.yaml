@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/902084844026970899/a77ea492f968476dbd50f2fc4a64d32c/artifacts
+deleted_time: 1780133980919
+end_time: 1780132845070
+entry_point_name: ''
+experiment_id: '902084844026970899'
+lifecycle_stage: deleted
+run_id: a77ea492f968476dbd50f2fc4a64d32c
+run_name: SVM - Linear Kernel
+run_uuid: a77ea492f968476dbd50f2fc4a64d32c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132845027
+status: 3
+tags: []
+user_id: mluser

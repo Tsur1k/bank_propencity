@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/258dc68f9c1d43cbad42577c8d794dd1/artifacts
+deleted_time: 1780127849265
+end_time: 1780126463690
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 258dc68f9c1d43cbad42577c8d794dd1
+run_name: languid-bear-551
+run_uuid: 258dc68f9c1d43cbad42577c8d794dd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126463680
+status: 3
+tags: []
+user_id: mluser

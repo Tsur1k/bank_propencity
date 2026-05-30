@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/fdad6099bd194f92be97cd29e9585eec/artifacts
+deleted_time: 1780127849315
+end_time: 1780125971450
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: fdad6099bd194f92be97cd29e9585eec
+run_name: efficient-turtle-432
+run_uuid: fdad6099bd194f92be97cd29e9585eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125971442
+status: 3
+tags: []
+user_id: mluser

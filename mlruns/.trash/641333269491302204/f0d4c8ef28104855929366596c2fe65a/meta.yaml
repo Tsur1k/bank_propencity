@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/f0d4c8ef28104855929366596c2fe65a/artifacts
+deleted_time: 1780130503478
+end_time: 1780128268504
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: f0d4c8ef28104855929366596c2fe65a
+run_name: propensity_pr_auc_20260530_080047
+run_uuid: f0d4c8ef28104855929366596c2fe65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128047639
+status: 3
+tags: []
+user_id: mluser

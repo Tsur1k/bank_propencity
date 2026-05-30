@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/b76ac2f4ccee4973b737a94bb499b215/artifacts
+deleted_time: 1780127849312
+end_time: 1780126482051
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: b76ac2f4ccee4973b737a94bb499b215
+run_name: chill-mare-294
+run_uuid: b76ac2f4ccee4973b737a94bb499b215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126482042
+status: 3
+tags: []
+user_id: mluser

@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/90c4c95d97be4be2822c58396477a30d/artifacts
+deleted_time: 1780127849332
+end_time: 1780126541813
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 90c4c95d97be4be2822c58396477a30d
+run_name: suave-shad-7
+run_uuid: 90c4c95d97be4be2822c58396477a30d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126541801
+status: 3
+tags: []
+user_id: mluser

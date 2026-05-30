@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/340191b742de4ad699f0e6093a77dc21/artifacts
+deleted_time: 1780127849242
+end_time: 1780126092167
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 340191b742de4ad699f0e6093a77dc21
+run_name: crawling-wasp-321
+run_uuid: 340191b742de4ad699f0e6093a77dc21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126092159
+status: 3
+tags: []
+user_id: mluser

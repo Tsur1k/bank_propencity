@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/800aea800bbe4baab2e8d16a7ed7611c/artifacts
+deleted_time: 1780127849289
+end_time: 1780126595070
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 800aea800bbe4baab2e8d16a7ed7611c
+run_name: bedecked-shark-896
+run_uuid: 800aea800bbe4baab2e8d16a7ed7611c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126595061
+status: 3
+tags: []
+user_id: mluser

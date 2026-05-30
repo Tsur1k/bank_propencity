@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/e614e8e8f7c7461ea1e392e9460d78b9/artifacts
+deleted_time: 1780127849351
+end_time: 1780127682584
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: e614e8e8f7c7461ea1e392e9460d78b9
+run_name: nervous-rat-808
+run_uuid: e614e8e8f7c7461ea1e392e9460d78b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127682535
+status: 3
+tags: []
+user_id: mluser

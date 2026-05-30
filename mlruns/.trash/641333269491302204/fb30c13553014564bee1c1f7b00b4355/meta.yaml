@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/fb30c13553014564bee1c1f7b00b4355/artifacts
+deleted_time: 1780127849352
+end_time: 1780127662617
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: fb30c13553014564bee1c1f7b00b4355
+run_name: serious-quail-338
+run_uuid: fb30c13553014564bee1c1f7b00b4355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127662602
+status: 3
+tags: []
+user_id: mluser

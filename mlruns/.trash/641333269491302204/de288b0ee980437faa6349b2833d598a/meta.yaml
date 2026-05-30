@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/de288b0ee980437faa6349b2833d598a/artifacts
+deleted_time: 1780126462573
+end_time: 1780125656304
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: de288b0ee980437faa6349b2833d598a
+run_name: wistful-steed-915
+run_uuid: de288b0ee980437faa6349b2833d598a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125649601
+status: 4
+tags: []
+user_id: mluser

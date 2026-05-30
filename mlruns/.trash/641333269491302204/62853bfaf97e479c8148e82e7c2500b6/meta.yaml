@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/62853bfaf97e479c8148e82e7c2500b6/artifacts
+deleted_time: 1780127849256
+end_time: 1780125991658
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 62853bfaf97e479c8148e82e7c2500b6
+run_name: fearless-perch-556
+run_uuid: 62853bfaf97e479c8148e82e7c2500b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125991650
+status: 3
+tags: []
+user_id: mluser

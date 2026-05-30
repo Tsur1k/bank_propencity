@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/f22e585a8bf34fcc9e16b2ca30215e07/artifacts
+deleted_time: 1780127849203
+end_time: 1780126164652
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: f22e585a8bf34fcc9e16b2ca30215e07
+run_name: bittersweet-hare-604
+run_uuid: f22e585a8bf34fcc9e16b2ca30215e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126164644
+status: 3
+tags: []
+user_id: mluser

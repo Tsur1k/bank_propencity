@@ -1,0 +1,6 @@
+artifact_location: file:///app/mlruns/902084844026970899
+creation_time: 1780131729502
+experiment_id: '902084844026970899'
+last_update_time: 1780131729502
+lifecycle_stage: active
+name: propensity_automl

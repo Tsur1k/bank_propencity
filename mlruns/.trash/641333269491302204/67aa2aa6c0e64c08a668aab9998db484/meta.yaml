@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/67aa2aa6c0e64c08a668aab9998db484/artifacts
+deleted_time: 1780127849341
+end_time: 1780127729864
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: 67aa2aa6c0e64c08a668aab9998db484
+run_name: efficient-koi-36
+run_uuid: 67aa2aa6c0e64c08a668aab9998db484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127729850
+status: 3
+tags: []
+user_id: mluser

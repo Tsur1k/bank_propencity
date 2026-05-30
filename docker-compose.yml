@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  ml-pipeline:
+    build: .
+    container_name: propensity-pipeline
+    volumes:
+      - ./data:/app/data
+      - ./mlruns:/app/mlruns
+    environment:
+      - MLFLOW_TRACKING_URI=file:///app/mlruns
+      - PYTHONUNBUFFERED=1
+    deploy:
+      resources:
+        limits:
+          cpus: "2.0"
+          memory: 2G
+        reservations:
+          cpus: "0.5"
+          memory: 512M

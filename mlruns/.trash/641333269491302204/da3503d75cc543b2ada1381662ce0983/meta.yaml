@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/da3503d75cc543b2ada1381662ce0983/artifacts
+deleted_time: 1780127849280
+end_time: 1780126064711
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: da3503d75cc543b2ada1381662ce0983
+run_name: rogue-moose-544
+run_uuid: da3503d75cc543b2ada1381662ce0983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126064700
+status: 3
+tags: []
+user_id: mluser

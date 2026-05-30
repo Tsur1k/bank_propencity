@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/641333269491302204/bbe6def1b20a44b7947c528bd48a86f6/artifacts
+deleted_time: 1780128010842
+end_time: 1780126380881
+entry_point_name: ''
+experiment_id: '641333269491302204'
+lifecycle_stage: deleted
+run_id: bbe6def1b20a44b7947c528bd48a86f6
+run_name: rumbling-bug-386
+run_uuid: bbe6def1b20a44b7947c528bd48a86f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126380871
+status: 3
+tags: []
+user_id: mluser
