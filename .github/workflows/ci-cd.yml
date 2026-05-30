@@ -35,6 +35,7 @@ jobs:
           uv run pytest tests/ -v --cov=src --cov-report=xml --cov-report=term
         env:
           MLFLOW_TRACKING_URI: file:///tmp/mlruns
+          PYTHONPATH: ${{ github.workspace }} 
 
   docker-build:
     runs-on: ubuntu-latest
